@@ -12,7 +12,7 @@ I have built a Netflix landing page clone with HTML and CSS. It closely resemble
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Netflix-landing-page-clone/
+    https://tgcodes-netflix-landing-page-clone.netlify.app/
 ## Authors
 
 - [TG💛](https://www.github.com/codesofTG) 
