@@ -93,7 +93,7 @@ Enjoy the process of creating your own Netflix landing page clone, and feel free
 Note: The functionality to play videos, navigate to other pages, and interact with the clone beyond the static content is not implemented in this code.
 ## Contributing
 
-Contributions are always welcome and highly appreciated! If you have any suggestions, improvements, bug fixes, or exciting ideas to enhance the Showcase of 30-Day JavaScript Projects, please don't hesitate to contribute.
+Contributions are always welcome and highly appreciated! If you have any suggestions, improvements, bug fixes, or exciting ideas to enhance the landing page, please don't hesitate to contribute.
 
 To contribute, follow these steps:
 
